@@ -1,0 +1,31 @@
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\MainApp.exe
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\MainApp.deps.json
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\MainApp.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\MainApp.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.csproj.CopyComplete
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\obj\Debug\net7.0\ref\MainApp.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\MainApp\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.dll
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+D:\coftclub\C#\week5\13.01.22\MainApp\obj\Debug\net7.0\MainApp.pdb

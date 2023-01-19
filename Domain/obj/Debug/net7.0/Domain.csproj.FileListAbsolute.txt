@@ -1,0 +1,36 @@
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\10.01.22 dapper Crud\home work\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\coftclub\C#\week5\13.01.22\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\coftclub\C#\week5\13.01.22\Domain\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\13.01.22\Domain\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\13.01.22\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\coftclub\C#\week5\14.01.22 home work\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\coftclub\C#\week5\14.01.22 home work\Domain\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\14.01.22 home work\Domain\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week5\14.01.22 home work\Domain\obj\Debug\net7.0\ref\Domain.dll
